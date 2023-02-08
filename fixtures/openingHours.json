@@ -1,0 +1,158 @@
+[
+{
+    "model": "brands.openinghoursonday",
+    "pk": 12,
+    "fields": {
+        "create_at": "2022-06-21T15:05:25.045Z",
+        "update_at": "2022-06-21T15:05:25.045Z",
+        "opening_from": "06:00:00",
+        "opening_to": "18:00:00",
+        "week_day": "Saturday",
+        "active_status": true,
+        "outlet": 7
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 13,
+    "fields": {
+        "create_at": "2022-06-21T15:05:33.897Z",
+        "update_at": "2022-06-21T15:05:33.898Z",
+        "opening_from": "21:05:29",
+        "opening_to": "21:05:29",
+        "week_day": "Sunday",
+        "active_status": true,
+        "outlet": 7
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 14,
+    "fields": {
+        "create_at": "2022-06-21T15:05:44.665Z",
+        "update_at": "2022-06-21T15:05:44.665Z",
+        "opening_from": "21:05:36",
+        "opening_to": "21:05:37",
+        "week_day": "Monday",
+        "active_status": true,
+        "outlet": 7
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 15,
+    "fields": {
+        "create_at": "2022-06-21T15:05:56.564Z",
+        "update_at": "2022-06-21T15:05:56.564Z",
+        "opening_from": "21:05:47",
+        "opening_to": "21:05:48",
+        "week_day": "Tuesday",
+        "active_status": true,
+        "outlet": 7
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 16,
+    "fields": {
+        "create_at": "2022-06-21T15:06:06.791Z",
+        "update_at": "2022-06-21T15:06:06.791Z",
+        "opening_from": "21:05:58",
+        "opening_to": "21:05:58",
+        "week_day": "Wednesday",
+        "active_status": true,
+        "outlet": 7
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 17,
+    "fields": {
+        "create_at": "2022-06-21T15:06:20.081Z",
+        "update_at": "2022-06-21T15:06:20.081Z",
+        "opening_from": "21:06:10",
+        "opening_to": "21:06:10",
+        "week_day": "Thursday",
+        "active_status": true,
+        "outlet": 7
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 18,
+    "fields": {
+        "create_at": "2022-06-21T15:06:34.468Z",
+        "update_at": "2022-06-21T15:06:34.468Z",
+        "opening_from": "21:06:26",
+        "opening_to": "21:06:26",
+        "week_day": "Friday",
+        "active_status": true,
+        "outlet": 7
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 19,
+    "fields": {
+        "create_at": "2022-06-21T15:07:50.485Z",
+        "update_at": "2022-06-21T15:07:50.485Z",
+        "opening_from": "21:07:44",
+        "opening_to": "21:07:44",
+        "week_day": "Sunday",
+        "active_status": true,
+        "outlet": 8
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 20,
+    "fields": {
+        "create_at": "2022-06-21T15:08:00.003Z",
+        "update_at": "2022-06-21T15:08:00.004Z",
+        "opening_from": "21:07:52",
+        "opening_to": "21:07:52",
+        "week_day": "Monday",
+        "active_status": true,
+        "outlet": 8
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 21,
+    "fields": {
+        "create_at": "2022-06-21T15:08:17.186Z",
+        "update_at": "2022-06-21T15:08:17.186Z",
+        "opening_from": "21:08:10",
+        "opening_to": "21:08:10",
+        "week_day": "Tuesday",
+        "active_status": true,
+        "outlet": 8
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 22,
+    "fields": {
+        "create_at": "2022-06-21T15:08:24.793Z",
+        "update_at": "2022-06-21T15:08:24.793Z",
+        "opening_from": "21:08:18",
+        "opening_to": "21:08:19",
+        "week_day": "Wednesday",
+        "active_status": true,
+        "outlet": 8
+    }
+},
+{
+    "model": "brands.openinghoursonday",
+    "pk": 23,
+    "fields": {
+        "create_at": "2022-06-21T15:08:35.399Z",
+        "update_at": "2022-06-21T15:08:35.399Z",
+        "opening_from": "21:08:26",
+        "opening_to": "21:08:27",
+        "week_day": "Thursday",
+        "active_status": true,
+        "outlet": 8
+    }
+}
+]

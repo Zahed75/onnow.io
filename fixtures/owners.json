@@ -1,0 +1,11 @@
+[
+{
+    "model": "users.owner",
+    "pk": 1,
+    "fields": {
+        "create_at": "2022-06-20T19:53:57.223Z",
+        "update_at": "2022-06-20T19:53:57.223Z",
+        "user": 2
+    }
+}
+]

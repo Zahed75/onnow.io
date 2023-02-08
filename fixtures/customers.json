@@ -1,0 +1,77 @@
+[
+{
+    "model": "customer.customer",
+    "pk": 1,
+    "fields": {
+        "create_at": "2022-06-23T15:50:18.808Z",
+        "update_at": "2022-06-23T15:50:18.808Z",
+        "brand": 1,
+        "name": "Shaon Indrajit Barua Alex",
+        "phone_number": "01863608559",
+        "no_of_orders": 11,
+        "first_order": "2022-06-23",
+        "last_order": "2022-06-23",
+        "total_revenue": "1500.00"
+    }
+},
+{
+    "model": "customer.customer",
+    "pk": 2,
+    "fields": {
+        "create_at": "2022-06-23T15:50:43.074Z",
+        "update_at": "2022-06-23T15:50:43.074Z",
+        "brand": 1,
+        "name": "Zahed Hasan",
+        "phone_number": "01789473788",
+        "no_of_orders": 7,
+        "first_order": "2022-06-23",
+        "last_order": "2022-06-23",
+        "total_revenue": "856.00"
+    }
+},
+{
+    "model": "customer.customer",
+    "pk": 3,
+    "fields": {
+        "create_at": "2022-06-23T15:51:08.956Z",
+        "update_at": "2022-06-23T15:51:08.956Z",
+        "brand": 1,
+        "name": "Baset bhai",
+        "phone_number": "01611814937",
+        "no_of_orders": 9,
+        "first_order": "2022-06-23",
+        "last_order": "2022-06-23",
+        "total_revenue": "1220.00"
+    }
+},
+{
+    "model": "customer.customer",
+    "pk": 4,
+    "fields": {
+        "create_at": "2022-06-23T15:51:31.711Z",
+        "update_at": "2022-06-23T15:51:31.712Z",
+        "brand": 1,
+        "name": "Sabbir",
+        "phone_number": "01463608559",
+        "no_of_orders": 3,
+        "first_order": "2022-06-23",
+        "last_order": "2022-06-23",
+        "total_revenue": "540.00"
+    }
+},
+{
+    "model": "customer.customer",
+    "pk": 5,
+    "fields": {
+        "create_at": "2022-06-23T15:52:36.404Z",
+        "update_at": "2022-06-23T15:52:36.404Z",
+        "brand": 1,
+        "name": "Rakib",
+        "phone_number": "01789473788",
+        "no_of_orders": 12,
+        "first_order": "2022-06-23",
+        "last_order": "2022-06-23",
+        "total_revenue": "5620.00"
+    }
+}
+]

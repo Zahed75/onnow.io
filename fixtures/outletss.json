@@ -1,0 +1,52 @@
+[
+{
+    "model": "brands.outlet",
+    "pk": 7,
+    "fields": {
+        "create_at": "2022-06-21T15:05:01.990Z",
+        "update_at": "2022-06-21T15:05:01.990Z",
+        "brand": 2,
+        "name": "Friggi's Dhanmondi",
+        "phone_number": "01835608559",
+        "address": "218/3B, Road No 2",
+        "outlet_status": true,
+        "is_paused": false,
+        "qr_code": "987654312",
+        "delivery_area": "Dhanmondi",
+        "delivery_charge": 10,
+        "delivery_time": "30",
+        "tax_rate": "5",
+        "tax_type": "EX",
+        "payment_methods": "DP",
+        "table_numbers": "01",
+        "outlet_manager": [
+            1
+        ]
+    }
+},
+{
+    "model": "brands.outlet",
+    "pk": 8,
+    "fields": {
+        "create_at": "2022-06-21T15:07:35.618Z",
+        "update_at": "2022-06-21T15:07:35.618Z",
+        "brand": 1,
+        "name": "Wrappo Banani",
+        "phone_number": "01863608559",
+        "address": "218/3B, Road No 2",
+        "outlet_status": true,
+        "is_paused": false,
+        "qr_code": "987654312",
+        "delivery_area": "Banani",
+        "delivery_charge": 25,
+        "delivery_time": "30",
+        "tax_rate": "10",
+        "tax_type": "IN",
+        "payment_methods": "COD",
+        "table_numbers": "10",
+        "outlet_manager": [
+            1
+        ]
+    }
+}
+]

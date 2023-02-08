@@ -1,0 +1,42 @@
+[
+{
+    "model": "brands.brand",
+    "pk": 1,
+    "fields": {
+        "create_at": "2022-06-20T19:54:18.353Z",
+        "update_at": "2022-06-20T19:54:18.353Z",
+        "owner": 1,
+        "subdomain": "wrappo.onnow.io",
+        "name": "Wrappo",
+        "no_of_outlets": 0,
+        "brand_color": "",
+        "text_color": "",
+        "banner_img": "",
+        "logo_img": "",
+        "manager": [
+            1
+        ],
+        "brand_beneficiary": []
+    }
+},
+{
+    "model": "brands.brand",
+    "pk": 2,
+    "fields": {
+        "create_at": "2022-06-21T15:03:49.160Z",
+        "update_at": "2022-06-21T15:03:49.160Z",
+        "owner": 1,
+        "subdomain": "friggis.onnow.io",
+        "name": "Friggi's",
+        "no_of_outlets": 1,
+        "brand_color": "",
+        "text_color": "",
+        "banner_img": "",
+        "logo_img": "",
+        "manager": [
+            1
+        ],
+        "brand_beneficiary": []
+    }
+}
+]

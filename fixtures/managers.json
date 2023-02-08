@@ -1,0 +1,12 @@
+[
+{
+    "model": "users.manager",
+    "pk": 1,
+    "fields": {
+        "create_at": "2022-06-20T19:53:48.462Z",
+        "update_at": "2022-06-20T19:53:48.462Z",
+        "user": 3,
+        "img": ""
+    }
+}
+]

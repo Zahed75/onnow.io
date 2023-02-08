@@ -1,0 +1,16 @@
+env
+db.sqlite3
+
+__pycache__
+onnow_env
+
+.idea
+.env
+
+media
+onnow/db_conf.py
+brands/migrations
+users/migrations
+orders/migrations
+customer/migrations
+discounts/migrations
